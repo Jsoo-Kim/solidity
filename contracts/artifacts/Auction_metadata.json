@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.1+commit.df193b15"
 	},
 	"language": "Solidity",
 	"output": {
@@ -232,7 +232,7 @@
 		"compilationTarget": {
 			"contracts/11_Auction.sol": "Auction"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -245,11 +245,11 @@
 	},
 	"sources": {
 		"contracts/11_Auction.sol": {
-			"keccak256": "0xd3934c7cbef6e7efced4fde02dbae10170e74446002434efc52a68040466a798",
+			"keccak256": "0x9531d6730585e7774732cd0707fe392955a41cb56830463f71b2493ec91ee7b2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0964f483786d383641bb0e8ed8cc0fb71b16cb2ac37f7431e208e222b4d682cf",
-				"dweb:/ipfs/QmRJvRG72dWzAfgFr6RJosyCSwZ1Jx8mEUPj1fVpRnCYg8"
+				"bzz-raw://5409b55c43f6f0eed885cdb25ad7d7ff19acf7acafe4edcb6405e4074e32817b",
+				"dweb:/ipfs/QmcHLeb4zgruoAttAoFDXrLxng2aMyPffqMARqq3SJJaXS"
 			]
 		}
 	},
