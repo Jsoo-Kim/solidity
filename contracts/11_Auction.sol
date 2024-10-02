@@ -2,7 +2,7 @@
 // 소스 코드가 MIT 라이선스로 제공됨을 명시
 
 pragma solidity ^0.8.1;
-// Solidity 버전 0.8.0 이상을 사용ㄴ
+// Solidity 버전 0.8.0 이상을 사용
 
 // 경매 컨트랙트 정의
 contract Auction {
